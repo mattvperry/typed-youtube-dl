@@ -1,0 +1,8 @@
+{
+  "name": "youtube-dl",
+  "main": "index.d.ts",
+  "version": "1.11.0",
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
+}
